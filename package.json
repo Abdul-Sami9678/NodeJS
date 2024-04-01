@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/Abdul-Sami9678/NodeJS/issues"
   },
-  "homepage": "https://github.com/Abdul-Sami9678/NodeJS#readme"
+  "homepage": "https://github.com/Abdul-Sami9678/NodeJS#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "viewerjs": "^1.11.6"
+  }
 }
